@@ -1,3 +1,12 @@
+<head>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    body, * {
+      font-family: 'Poppins', sans-serif !important;
+    }
+  </style>
+</head>
+
 ## Hi there 👋
 
 <h1 align="center">✨ Ulfa Damayanti ✨</h1>
@@ -91,5 +100,3 @@ Hi! I'm **Ulfa Damayanti**, Fresh graduate of Diploma 4 (D4) in Informatics Engi
   <a href="mailto:ulfadamayanti79@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/ulfa03"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
-
