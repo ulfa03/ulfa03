@@ -2,7 +2,7 @@
 
 <h1 align="center">✨ Ulfa Damayanti ✨</h1>
 <p align="center">
-  <em>Data Analyst | Machine Learning (ML) / Artificial intelligence (AI) Engineer | Web & Mobile Developer</em>
+  <em>Data Analyst | Machine Learning (ML) & Artificial intelligence (AI) Engineer | Web & Mobile Developer</em>
 </p>
 
 ---
